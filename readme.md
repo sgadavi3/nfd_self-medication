@@ -23,12 +23,14 @@ Contains DEFRA data 2017;
 Contains OSM data 2017. 
 
 After variable testing (including census data and different aggregation levels of OAC), data was reduced to the following features (where each row corresponds to 1 LSOA):
+
 	- LSOA code
 	- AHAH inputs: gambling, fast food, pubs, off licenses, tobacconists, gp practices, emergency departments, dentists, pharmacies, leisure,
 	green-space, particulate matter 10, nitrogen dioxide, sulphur dioxide. 
 	- IMD score
 	- RUC groups: A1, B1, C1, C2, D1, D2, E1, E2, 
 	- OAC groups: 1a, 1b, 1c, 2a, 2b, 2c, 2d, 3a, 3b, 3c, 3d, 4a, 4b, 4c, 5a, 5b, 6a, 6b, 7a, 7b, 7c, 7d, 8a, 8b, 8c, 8d
+
 This was joined with to the proportion of people purchasing products per LSOA (number of accounts that purchased a product per LSOA / total number of accounts per LSOA) (target variable) and the median age per LSOA.
 
 ### randomForest_XGBoost.R
