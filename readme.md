@@ -29,8 +29,9 @@ After variable testing (including census data and different aggregation levels o
 - IMD score
 - RUC groups: A1, B1, C1, C2, D1, D2, E1, E2, 
 - OAC groups: 1a, 1b, 1c, 2a, 2b, 2c, 2d, 3a, 3b, 3c, 3d, 4a, 4b, 4c, 5a, 5b, 6a, 6b, 7a, 7b, 7c, 7d, 8a, 8b, 8c, 8d
+- Median age per LSOA (from secure data).
 
-This was joined with to the proportion of people purchasing products per LSOA (number of accounts that purchased a product per LSOA / total number of accounts per LSOA) (target variable) and the median age per LSOA.
+The target variable was the proportion of people purchasing products per LSOA (number of accounts that purchased a product per LSOA / total number of accounts per LSOA). 
 
 ### randomForest_XGBoost.R
 Code for:
