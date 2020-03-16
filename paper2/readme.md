@@ -1,10 +1,10 @@
-Details on software used for paper 'Using loyalty card records and machine learning to understand how self-medication purchasing behaviours vary seasonally in England, 2012–2014'. The research also uses secure data which can be applied for via the Consumer Data Research Centre (cdrc.ac.uk). Contained here are the details of data and packages used. As secure data is used this documents only details the packages used, as the exact code is protected by and NDA.
+Details for research paper 'Using loyalty card records and machine learning to understand how self-medication purchasing behaviours vary seasonally in England, 2012–2014'. The research  uses secure data which can be applied for via the Consumer Data Research Centre (cdrc.ac.uk). Contained here are the details of data and packages used. As secure data is used this documents only details the packages used, as the exact code is protected by NDA.
 
 # Data 
 Secure data can be applied for (and metadata is available): 
 https://data.cdrc.ac.uk/product/high-street-retailer-data
 
-Open license data are available: 
+Other data: 
 - National Statistics Postcode Lookup: https://data.gov.uk/dataset/7ec10db7-c8f4-4a40-8d82-8921935b4865/national-statistics-postcode-lookup-uk 
 - Index of Access to Healthy Assets and Hazards: https://data.cdrc.ac.uk/dataset/access-to-healthy-assets-and-hazards-ahah
 - Index of Multiple Deprivation: https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015
