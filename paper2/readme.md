@@ -1,7 +1,7 @@
 Details on software used for paper 'Using loyalty card records and machine learning to understand how self-medication 
 purchasing behaviours vary seasonally in England, 2012–2014'. The research also uses secure data which can be applied 
 for via the Consumer Data Research Centre (cdrc.ac.uk). Contained here are the details of data and packages used. As 
-secure data is used this documents only details the packages and functions used, as the exact code is protected by and NDA.
+secure data is used this documents only details the packages used, as the exact code is protected by and NDA.
 
 # Data 
 Secure data can be applied for (and metadata is available): 
